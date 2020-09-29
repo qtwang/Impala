@@ -49,7 +49,7 @@ pytest-xdist == 1.12
 python-magic == 0.4.11
 pywebhdfs == 0.3.2
   pbr == 1.8.1
-requests == 2.7.0
+requests == 2.20.0
 sh == 1.11
 sqlparse == 0.1.15
 texttable == 0.8.3
