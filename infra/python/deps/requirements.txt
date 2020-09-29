@@ -20,7 +20,7 @@ cm-api == 10.0.0
 Fabric == 1.10.2
   paramiko == 1.15.2
   pycrypto == 2.6.1
-Flask == 0.10.1
+Flask == 1.0
   Jinja2 == 2.8
   MarkupSafe == 0.23
   Werkzeug == 0.11.3
