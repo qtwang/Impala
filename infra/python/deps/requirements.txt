@@ -21,7 +21,7 @@ Fabric == 1.10.2
   paramiko == 1.15.2
   pycrypto == 2.6.1
 Flask == 0.10.1
-  Jinja2 == 2.8
+  Jinja2 == 2.11.3
   MarkupSafe == 0.23
   Werkzeug == 0.11.3
   itsdangerous == 0.24
